@@ -76,6 +76,11 @@ li:last-child{
     width: 50%;
 }
 
+.section-img img{
+    border-radius: 10%;
+    box-shadow: 10px 10px 3px #efefef;
+}
+
 .section-title{
     font-size: 1.5rem;
     font-weight: normal;
